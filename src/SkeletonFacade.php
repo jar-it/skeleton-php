@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Skeleton;
+namespace JarIt\Skeleton;
 
 use Illuminate\Support\Facades\Facade;
 
